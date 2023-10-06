@@ -1,0 +1,49 @@
+.header{
+    background: #2B3844;
+}.nav{
+    justify-content: space-between;
+}.form-control{
+    padding: 18px 270px 18px 74px;
+}.nav-link{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 800;
+}main{
+    background: #202C36;
+}.country__container{
+    padding: 0 30px;
+    justify-content: space-between;
+}.btn{
+    padding: 18px 77px 18px 24px;
+}.card{
+    background: #2B3844;
+}.card-title{
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 26px; 
+}.card-text{
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+}.cards{
+    column-gap: 37px;
+    flex-wrap: wrap;
+    padding: 0 15px;
+    row-gap: 67px;
+}
+.btn-primary{
+    padding: 10px 39px 10px 62px;
+}.box__container{
+    padding: 0 30px;
+}.img{
+    object-fit: cover;
+    max-width: 300px;
+    height: 500px;
+}.card__desc{
+    display: flex;
+    column-gap: 144px;
+}.dark__btn main:active{
+    background: black;
+}
